@@ -46,6 +46,7 @@
                      
                   </div>
 
+                  
                   <div class="form-group col-md-4">
                      <label>Tipo Persona</label>
                      <select name="tipoPersona" class="form-control">
